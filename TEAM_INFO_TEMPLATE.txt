@@ -1,0 +1,19 @@
+Team Members:
+- [Name 1] ([ID1])
+- [Name 2] ([ID2])
+- [Name 3] ([ID3])
+- [Name 4] ([ID4]) [if applicable]
+
+TA Name: [Your TA's Name]
+
+GitHub Repositories:
+- Backend: https://github.com/yourusername/event-backend
+- Frontend: https://github.com/yourusername/event-frontend
+
+Note: Please ensure your TA is added as a collaborator to both repositories.
+
+Instructions:
+1. Replace all placeholders [Name X], [IDX], [Your TA's Name], and GitHub URLs with your actual information
+2. Rename this file to: ID1_ID2_ID3_TA_NAME.txt (e.g., 123456_789012_345678_TA_NAME.txt)
+3. Include this file in your Phase 1 submission zip
+
